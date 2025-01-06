@@ -7,7 +7,7 @@ I was with the team N0rm1n3tte with 2 other members. we got 120/1538 place.
 ## Writeups
 
 - [Password Manager](./password-manager/wu.md)
-- [KittyCript](./KittyCript/wu.md)
+- [KittyCrypt](./KittyCrypt/wu.md)
 - [Sqlate](./sqlate/wu.md)
 - [where-booby](./where-booby/wu.md)
 
