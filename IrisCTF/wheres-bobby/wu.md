@@ -1,3 +1,15 @@
+---
+title: "Where's Bobby"
+date: "2025-01-12"
+ctf: "IrisCTF 2025"
+category: "forensics"
+difficulty: "Medium"
+points: 247
+tags: ["forensics", "osint", "geography"]
+author: "Tham Le"
+solved: true
+---
+
 # Where's Bobby (247 Points) - SOLVED
 
 **Category**: Medium

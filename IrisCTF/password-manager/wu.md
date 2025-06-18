@@ -1,3 +1,15 @@
+---
+title: "Password Manager"
+date: "2025-01-12"
+ctf: "IrisCTF 2025"
+category: "web"
+difficulty: "Easy"
+points: 50
+tags: ["web", "path-traversal", "baby"]
+author: "Tham Le"
+solved: true
+---
+
 # IrisCTF 2025 - Password Manager Challenge Writeup
 
 ## Challenge Description

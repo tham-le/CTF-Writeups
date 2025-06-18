@@ -1,3 +1,15 @@
+---
+title: "KittyCrypt"
+date: "2025-01-12"
+ctf: "IrisCTF 2025"
+category: "crypto"
+difficulty: "Medium"
+points: 100
+tags: ["crypto", "encoding", "emoji"]
+author: "Tham Le"
+solved: true
+---
+
 # KittyCrypt Writeup
 
 ## Analysis

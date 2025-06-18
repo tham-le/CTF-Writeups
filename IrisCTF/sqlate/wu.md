@@ -1,3 +1,15 @@
+---
+title: "Sqlate"
+date: "2025-01-12"
+ctf: "IrisCTF 2025"
+category: "web"
+difficulty: "Easy"
+points: 50
+tags: ["web", "binary", "buffer-overflow"]
+author: "Tham Le"
+solved: true
+---
+
 # Sqlate Write-up
 
 Challenge: Sqlate (50 points)
