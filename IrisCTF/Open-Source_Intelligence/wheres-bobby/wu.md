@@ -1,14 +1,17 @@
 ---
-title: "Where's Bobby"
+title: "Where's Bobby (247 Points) - SOLVED"
 date: "2025-01-12"
 ctf: "IrisCTF 2025"
-category: "forensics"
+category: "osint"
 difficulty: "Medium"
-points: 247
-tags: ["forensics", "osint", "geography"]
+points: 100
+tags: ['osint']
 author: "Tham Le"
 solved: true
 ---
+
+
+
 
 # Where's Bobby (247 Points) - SOLVED
 

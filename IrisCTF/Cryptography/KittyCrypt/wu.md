@@ -1,14 +1,17 @@
 ---
-title: "KittyCrypt"
+title: "KittyCrypt Writeup"
 date: "2025-01-12"
 ctf: "IrisCTF 2025"
 category: "crypto"
 difficulty: "Medium"
 points: 100
-tags: ["crypto", "encoding", "emoji"]
+tags: ['crypto']
 author: "Tham Le"
 solved: true
 ---
+
+
+
 
 # KittyCrypt Writeup
 

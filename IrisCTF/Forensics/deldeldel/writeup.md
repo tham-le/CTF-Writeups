@@ -1,3 +1,17 @@
+---
+title: "deldeldel"
+date: "2025-01-12"
+ctf: "IrisCTF 2025"
+category: "forensics"
+difficulty: "Easy"
+points: 50
+tags: ['easy']
+author: "skat"
+solved: true
+---
+
+
+
 # deldeldel
 
 | Category | Author | Tags | Points | Solves |
