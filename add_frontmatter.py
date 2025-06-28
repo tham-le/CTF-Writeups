@@ -61,25 +61,35 @@ def determine_difficulty(tags, points):
         return 'Medium'
 
 def get_ctf_name_from_path(filepath):
-    """Extract CTF name from file path."""
+    """Extract CTF name from file path dynamically."""
     parts = Path(filepath).parts
     if len(parts) > 1:
-        ctf_name = parts[0]  # Changed from parts[1] to parts[0] - first part after . is the CTF name
-        # Clean up CTF name
-        if ctf_name == 'IrisCTF':
-            return 'IrisCTF 2025'
-        elif ctf_name == 'HeroCTF_v6':
-            return 'HeroCTF v6'
-        elif ctf_name == 'HTBUniversity2024':
-            return 'HTB University CTF 2024'
-        elif ctf_name == 'CyberApocalypse2025':
-            return 'HTB Cyber Apocalypse CTF 2025'
-        elif ctf_name == '404CTF_2025':
-            return '404CTF 2025'
-        elif ctf_name == 'CTF_HackHer':
-            return 'HackHer CTF'
+        ctf_name = parts[0]
+        
+        # Dynamic name formatting - convert underscores/hyphens to spaces and handle common patterns
+        formatted_name = ctf_name.replace('_', ' ').replace('-', ' ')
+        
+        # Handle common CTF naming patterns
+        if 'CTF' not in formatted_name.upper():
+            if any(year in ctf_name for year in ['2024', '2025', '2026']):
+                formatted_name += ' CTF'
+            elif ctf_name.lower().endswith('ctf'):
+                pass  # Already has CTF suffix
+            else:
+                formatted_name += ' CTF'
+        
+        # Capitalize properly
+        words = formatted_name.split()
+        formatted_words = []
+        for word in words:
+            if word.upper() in ['CTF', 'HTB', 'OSINT']:
+                formatted_words.append(word.upper())
+            elif word.isdigit() or any(c.isdigit() for c in word):
+                formatted_words.append(word)  # Keep version numbers as-is
         else:
-            return ctf_name
+                formatted_words.append(word.capitalize())
+        
+        return ' '.join(formatted_words)
     return 'Unknown CTF'
 
 def extract_title_from_content(content):
