@@ -1,16 +1,16 @@
 ---
-title: "password-manager Writeup"
+title: "nethog Writeup"
 date: "2025-06-30"
 ctf: "IrisCTF 2025"
-category: "web exploitation"
+category: "forensics"
 difficulty: "Unknown"
 points: 0
-tags: ['web']
+tags: ['forensics']
 author: "Tham Le"
 solved: false
 ---
 
-# password-manager Writeup
+# nethog Writeup
 
 ## Analysis
 

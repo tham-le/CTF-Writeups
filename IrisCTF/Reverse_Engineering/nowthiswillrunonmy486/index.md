@@ -1,16 +1,16 @@
 ---
-title: "password-manager Writeup"
+title: "nowthiswillrunonmy486 Writeup"
 date: "2025-06-30"
 ctf: "IrisCTF 2025"
-category: "web exploitation"
+category: "reverse engineering"
 difficulty: "Unknown"
 points: 0
-tags: ['web']
+tags: ['rev']
 author: "Tham Le"
 solved: false
 ---
 
-# password-manager Writeup
+# nowthiswillrunonmy486 Writeup
 
 ## Analysis
 

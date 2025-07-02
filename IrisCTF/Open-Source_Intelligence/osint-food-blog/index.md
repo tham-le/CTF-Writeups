@@ -1,16 +1,16 @@
 ---
-title: "password-manager Writeup"
+title: "osint-food-blog Writeup"
 date: "2025-06-30"
 ctf: "IrisCTF 2025"
-category: "web exploitation"
+category: "osint"
 difficulty: "Unknown"
 points: 0
-tags: ['web']
+tags: ['osint']
 author: "Tham Le"
 solved: false
 ---
 
-# password-manager Writeup
+# osint-food-blog Writeup
 
 ## Analysis
 

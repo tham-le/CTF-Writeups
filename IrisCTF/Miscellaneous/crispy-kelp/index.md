@@ -1,16 +1,16 @@
 ---
-title: "password-manager Writeup"
+title: "crispy-kelp Writeup"
 date: "2025-06-30"
 ctf: "IrisCTF 2025"
-category: "web exploitation"
+category: "miscellaneous"
 difficulty: "Unknown"
 points: 0
-tags: ['web']
+tags: ['misc']
 author: "Tham Le"
 solved: false
 ---
 
-# password-manager Writeup
+# crispy-kelp Writeup
 
 ## Analysis
 

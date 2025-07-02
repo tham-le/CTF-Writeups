@@ -1,16 +1,16 @@
 ---
-title: "password-manager Writeup"
+title: "myfiles Writeup"
 date: "2025-06-30"
 ctf: "IrisCTF 2025"
-category: "web exploitation"
+category: "pwn"
 difficulty: "Unknown"
 points: 0
-tags: ['web']
+tags: ['pwn']
 author: "Tham Le"
 solved: false
 ---
 
-# password-manager Writeup
+# myfiles Writeup
 
 ## Analysis
 
