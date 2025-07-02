@@ -1,2 +1,2 @@
 # Ignore Hugo-specific build files
-**/*_index.md 
+# **/*_index.md - Commented out to allow _index.md files for Hugo sections 
