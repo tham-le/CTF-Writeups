@@ -31,8 +31,11 @@
             {{ range .RegularPagesRecursive.ByTitle }}
               <div class="challenge-card">
                 <a href="{{ .RelPermalink }}" class="challenge-link">
-                  
+                  <h4>{{ .Title }}</h4>
                 </a>
+                {{ if .Description }}
+                  <p>{{ .Description }}</p>
+                {{ end }}
                 <div class="challenge-meta">
                   {{ if .Params.difficulty }}
                     <span class="difficulty difficulty-{{ lower .Params.difficulty }}">{{ .Params.difficulty }}</span>
