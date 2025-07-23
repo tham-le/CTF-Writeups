@@ -1,0 +1,143 @@
+{
+  "generated_at": "2025-06-25T19:52:14.741520",
+  "events": [
+    {
+      "name": "404CTF 2025",
+      "slug": "404ctf-2025",
+      "writeups": [
+        {
+          "title": "Binary Analysis",
+          "category": "rev",
+          "difficulty": "Medium",
+          "description": "",
+          "path": "404CTF_2025/Reverse_Engineering/binary_analysis/writeup.md",
+          "challenge": "binary_analysis"
+        }
+      ],
+      "date": "2025-05-20",
+      "readme_path": "404CTF_2025/README.md"
+    },
+    {
+      "name": "CTF HackHer",
+      "slug": "ctf-hackher",
+      "writeups": [
+        {
+          "title": "RSA Challenge",
+          "category": "crypto",
+          "difficulty": "Hard",
+          "description": "",
+          "path": "CTF_HackHer/Cryptography/rsa_challenge/writeup.md",
+          "challenge": "rsa_challenge"
+        }
+      ],
+      "date": "2024-10-05",
+      "readme_path": "CTF_HackHer/README.md"
+    },
+    {
+      "name": "CyberApocalypse2025",
+      "slug": "cyberapocalypse2025",
+      "writeups": [
+        {
+          "title": "API Chaos",
+          "category": "web",
+          "difficulty": "Medium",
+          "description": "",
+          "path": "CyberApocalypse2025/Web_Exploitation/api_chaos/writeup.md",
+          "challenge": "api_chaos"
+        }
+      ],
+      "date": "2025-03-15",
+      "readme_path": "CyberApocalypse2025/README.md"
+    },
+    {
+      "name": "HTBUniversity2024",
+      "slug": "htbuniversity2024",
+      "writeups": [
+        {
+          "title": "Buffer Overflow",
+          "category": "pwn",
+          "difficulty": "Medium",
+          "description": "",
+          "path": "HTBUniversity2024/Binary_Exploitation/buffer_overflow/writeup.md",
+          "challenge": "buffer_overflow"
+        }
+      ],
+      "date": "2024-12-10",
+      "readme_path": "HTBUniversity2024/README.md"
+    },
+    {
+      "name": "HeroCTF v6",
+      "slug": "heroctf-v6",
+      "writeups": [
+        {
+          "title": "Fake Login",
+          "category": "web",
+          "difficulty": "Easy",
+          "description": "",
+          "path": "HeroCTF_v6/Web_Exploitation/fake_login/writeup.md",
+          "challenge": "fake_login"
+        }
+      ],
+      "date": "2024-11-15",
+      "readme_path": "HeroCTF_v6/README.md"
+    },
+    {
+      "name": "IrisCTF",
+      "slug": "irisctf",
+      "writeups": [
+        {
+          "title": "Tracem 1",
+          "category": "forensics",
+          "difficulty": "Easy",
+          "description": "",
+          "path": "IrisCTF/Forensics/Tracem_1/writeup.md",
+          "challenge": "Tracem_1"
+        },
+        {
+          "title": "deldeldel",
+          "category": "forensics",
+          "difficulty": "Easy",
+          "description": "",
+          "path": "IrisCTF/Forensics/deldeldel/writeup.md",
+          "challenge": "deldeldel"
+        },
+        {
+          "title": "Late Night Bite",
+          "category": "osint",
+          "difficulty": "Medium",
+          "description": "",
+          "path": "IrisCTF/Open-Source_Intelligence/Late_Night_Bite/writeup.md",
+          "challenge": "Late_Night_Bite"
+        },
+        {
+          "title": "Not Eelaborate",
+          "category": "osint",
+          "difficulty": "Medium",
+          "description": "",
+          "path": "IrisCTF/Open-Source_Intelligence/Not_Eelaborate/writeup.md",
+          "challenge": "Not_Eelaborate"
+        },
+        {
+          "title": "Sleuths and Sweets",
+          "category": "osint",
+          "difficulty": "Medium",
+          "description": "",
+          "path": "IrisCTF/Open-Source_Intelligence/Sleuths_and_Sweets/writeup.md",
+          "challenge": "Sleuths_and_Sweets"
+        },
+        {
+          "title": "Political",
+          "category": "web",
+          "difficulty": "Easy",
+          "description": "",
+          "path": "IrisCTF/Web_Exploitation/Political/writeup.md",
+          "challenge": "Political"
+        }
+      ],
+      "date": "2025-01-12",
+      "readme_path": "IrisCTF/README.md"
+    }
+  ],
+  "total_events": 6,
+  "total_writeups": 11
+}
